@@ -1,6 +1,8 @@
 Political Ideology Detection Using Text Classification
 
-Measure politicians' ideologies using text classification to measure how Democratic or Republican their speeches are. Test the hypothesis that candidates move towards the center of the political spectrum for general elections in order to win more votes from the voters on the opposite side as well.
+Measure politicians' ideologies using text classification to measure how Democratic or Republican their speeches are.
+Test the hypothesis that candidates move towards the center of the political spectrum for general elections in order
+to win more votes from the voters on the opposite side as well.
 
 1. The 2005 US Congress debate transcripts can be downloaded at http://www.cs.cornell.edu/home/llee/data/convote.html
 
